@@ -1,0 +1,6 @@
+com\restapi\departmentdb_demo\service\DepartmentService.class
+com\restapi\departmentdb_demo\config\SwaggerConfiguration.class
+com\restapi\departmentdb_demo\persistence\DepartmentRepository.class
+com\restapi\departmentdb_demo\DepartmentDbDemoApplication.class
+com\restapi\departmentdb_demo\persistence\Department.class
+com\restapi\departmentdb_demo\resource\DepartmentResource.class
